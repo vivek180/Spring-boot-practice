@@ -6,6 +6,7 @@ public class SavingAccount {
 		//Write Logic
 		
 		return 0;
+         int i = 10;
 	}
 
 }
