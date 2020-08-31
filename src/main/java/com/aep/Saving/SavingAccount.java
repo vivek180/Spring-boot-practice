@@ -9,9 +9,14 @@ public class SavingAccount {
 	
 	public int depositMoney() {
 		//Write Logic
-		
+		int i=10;
 		return 0;
          int i = 10;
 	}
+public static int b= 20;
+public int withdrawMoney(){
+   
+     int i=10;
+}
 
 }
