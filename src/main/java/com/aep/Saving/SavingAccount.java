@@ -7,7 +7,7 @@ public class SavingAccount {
 		int i=10;
 		return 0;
 	}
-
+public static int b= 20;
 public int withdrawMoney(){
    
      int i=10;
