@@ -8,4 +8,9 @@ public class SavingAccount {
 		return 0;
 	}
 
+public int withdrawMoney(){
+   
+     int i=10;
+}
+
 }
